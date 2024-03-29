@@ -47,10 +47,6 @@ Currently, I'm diving deep into Data Structures and Algorithms to enhance my pro
 
  <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/Pathania_rex"><img src="https://img.shields.io/twitter/follow/Pathania_rex?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCwTjoLd6MqqYiiok5FHtvTQ/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCwTjoLd6MqqYiiok5FHtvTQ?style=social"></a></p>
 
-<div align="center">
-
-#### Show some ❤️ by starring some of the repositories!
-</div>
 
 <!--- Footer End -->
 <!--- Body End -->
