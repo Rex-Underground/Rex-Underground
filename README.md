@@ -3,18 +3,18 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://github.com/username">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/username">LinkedIn</a> - 
-  <a href="https://twitter.com/username">Twitter</a> -
-  <a href="https://personalwebsite.com/">Website</a></p>
+  <a href="https://github.com/Rex-Underground">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/aditya-pathania-ba32b5261/">LinkedIn</a> - 
+  <a href="https://twitter.com/Pathania_rex">Twitter</a> -
+  <a href="https://www.youtube.com/channel/UCwTjoLd6MqqYiiok5FHtvTQ">YouTube</a></p>
 
 -----------------------------------------------------------
-👨‍💻 **About Me**<img src="https://raw.githubusercontent.com/username/username/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Data Analytics Enthusiast <br>
 ⚡ Currently Learning Data Structures and Algorithms <br>
 🔍 Experienced in C++, Python, Excel, SQL, Power BI <br>
-📫 How to reach me: [Email](mailto:youremail@example.com) or visit [LinkedIn](https://www.linkedin.com/in/username/)<br>
-👯 Join my open-source projects on [GitHub](https://github.com/username)<br>
+📫 How to reach me: [Email](mailto:rex.adityapathania@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/aditya-pathania-ba32b5261/)<br>
+👯 Join my open-source projects on [GitHub](https://github.com/Rex-Underground)<br>
 💬 Ask me about Data Analysis, C++, Python, SQL<br>
 
 <!--- Adding Tech Stack open Section -->
@@ -32,13 +32,10 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git
 </details> 
 
 <!--- 1st Section on Data Analysis Projects -->
-<b>📊 Data Analysis Projects</b><br>
+<b>📊 My Projects</b><br>
 
-I've worked on several data analysis projects, some of which you'll find in my [GitHub repositories](https://github.com/username). Here are a few highlights:<br>
-  📈 [Sales Analysis Dashboard](https://github.com/username/Sales-Analysis-Dashboard)<br>
-  📊 [Customer Segmentation using K-means](https://github.com/username/Customer-Segmentation-Kmeans)<br>
-  📉 [Stock Market Analysis](https://github.com/username/Stock-Market-Analysis)<br>
-➡️ [Explore more projects...](https://github.com/username)
+Here are my projects[More on the Way]:<br>
+  🏨 [Hotel Booking Cancellations](https://github.com/Rex-Underground/Hotel-Booking-Cancellation-Dashboard)<br>
 
 <!--- 2nd Section on Learning DSA -->
 
@@ -48,7 +45,7 @@ Currently, I'm diving deep into Data Structures and Algorithms to enhance my pro
 
 <!--- Footer Starts - Adding the Social Media Status count-->
 
- <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/your-channel/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/your-channel?style=social"></a></p>
+ <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/Pathania_rex"><img src="https://img.shields.io/twitter/follow/Pathania_rex?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCwTjoLd6MqqYiiok5FHtvTQ/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCwTjoLd6MqqYiiok5FHtvTQ?style=social"></a></p>
 
 <div align="center">
 
