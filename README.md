@@ -36,6 +36,8 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git
 
 Here are my projects[More on the Way]:<br>
   🏨 [Hotel Booking Cancellations](https://github.com/Rex-Underground/Hotel-Booking-Cancellation-Dashboard)<br>
+  🍽️ [Zomato Dashboard](https://github.com/Rex-Underground/Zomato-Dashboard)<br>
+  
 
 <!--- 2nd Section on Learning DSA -->
 
