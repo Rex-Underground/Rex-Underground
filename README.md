@@ -42,7 +42,7 @@ Here are my projects[More on the Way]:<br>
 
 <b>🌱 Learning Data Structures and Algorithms</b><br>
 
-Currently, I'm diving deep into Data Structures and Algorithms to enhance my problem-solving skills and algorithmic thinking. Stay tuned for updates on my progress and projects in this domain!
+Currently, I'm diving deep into Data Structures and Algorithms and AI/Ml to enhance my problem-solving skills and algorithmic thinking. Stay tuned for updates on my progress and projects in this domain!
 
 <!--- Footer Starts - Adding the Social Media Status count-->
 
