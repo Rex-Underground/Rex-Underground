@@ -14,7 +14,6 @@
 ⚡ Currently Learning Data Structures and Algorithms <br>
 🔍 Experienced in C++, Python, Excel, SQL, Power BI <br>
 📫 How to reach me: [Email](mailto:rex.adityapathania@gmail.com) or visit [LinkedIn](https://www.linkedin.com/in/aditya-pathania-ba32b5261/)<br>
-👯 Join my open-source projects on [GitHub](https://github.com/Rex-Underground)<br>
 💬 Ask me about Data Analysis, C++, Python, SQL<br>
 
 <!--- Adding Tech Stack open Section -->
